@@ -1,0 +1,15 @@
+﻿We will be using Jupyter Notebook, a web-based interactive computational environment.
+
+First, move all the files in this folder into a folder on your home directory (eg N:/nle_notebooks)
+
+
+
+Open command prompt (search cmd from the Start menu) and enter the following:
+
+	
+
+	jupyter notebook --notebook-dir C:\Users\Oliver\Documents\Jupiter_workbooks\nle_coursework --port=9999
+
+(make sure the directory is pointing to the location where you placed the files)
+
+This will open Jupyter in your browser - select week1_notebook.ipynb and work through the exercises.
